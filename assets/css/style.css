@@ -1,0 +1,74 @@
+* {
+  font-family: "Roboto";
+  color: #606060;
+}
+
+a {
+  text-decoration: none;
+}
+
+body p {
+  font-size: 22px;
+  margin: 0px;
+}
+
+body .container {
+  width: 600px;
+  padding: 0px;
+}
+
+h5 {
+  font-weight: bold;
+  color: #232323;
+}
+
+.text-primary {
+  color: #0a9670 !important;
+}
+
+.text-secondary {
+  color: #606060 !important;
+}
+
+.text-info {
+  color: #ffba00 !important;
+}
+
+.text-black {
+  color: #000000 !important;
+}
+
+.bg-secondary {
+  background-color: #efeff1 !important;
+}
+
+.bg-dark {
+  background-color: #000000 !important;
+}
+
+.information a {
+  font-weight: 400;
+}
+.border-primary {
+  border-color: #ffba00 !important;
+}
+.border-secondary {
+  border-color: #c4c4c4 !important;
+}
+
+.payment-fees .table > :not(caption) > * > * {
+  padding: 0px !important;
+}
+.payment-fees .table > :not(caption) > tr > td {
+  padding-bottom: 2px !important;
+}
+
+ul {
+  list-style-type: none;
+}
+.social-links > li:hover {
+   border-color: #FFBA00 !important;
+}
+.social-links > li:hover i {
+    color: #FFBA00 !important;
+}
